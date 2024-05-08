@@ -73,5 +73,3 @@ The project follows a typical folder structure for a React application:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize the README file further based on your project's specific requirements and features.
