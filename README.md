@@ -2,7 +2,7 @@
 
 # WeatherApp
 
-Welcome to WeatherApp! This is a web application built using React.js that allows users to check the current weather conditions of any location worldwide.
+Welcome to WeatherApp! This is a web application built using Next.js that allows users to check the current weather conditions of any location worldwide.
 
 ## Features
 
